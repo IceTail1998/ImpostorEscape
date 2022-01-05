@@ -1,0 +1,173 @@
+{
+    "m_SelectedDeviceId": "99101FFBA00BH8",
+    "m_SelectedPackage": {
+        "deviceId": "",
+        "name": "",
+        "processId": 0,
+        "exited": false
+    },
+    "m_SelectedPriority": 0,
+    "m_KnownPackagesForSerialization": [
+        {
+            "deviceId": "52002f0bfe0e2539",
+            "name": "com.escape.imposter.rescue",
+            "processId": 17414,
+            "exited": true
+        },
+        {
+            "deviceId": "52002f0bfe0e2539",
+            "name": "com.sec.android.app.launcher",
+            "processId": 4576,
+            "exited": false
+        },
+        {
+            "deviceId": "52002f0bfe0e2539",
+            "name": "com.escape.imposter.rescue",
+            "processId": 19621,
+            "exited": true
+        },
+        {
+            "deviceId": "52002f0bfe0e2539",
+            "name": "com.escape.imposter.rescue",
+            "processId": 22069,
+            "exited": true
+        },
+        {
+            "deviceId": "52002f0bfe0e2539",
+            "name": "com.escape.imposter.rescue",
+            "processId": 25571,
+            "exited": false
+        },
+        {
+            "deviceId": "935AX04NZ1",
+            "name": "com.escape.imposter.rescue",
+            "processId": 28137,
+            "exited": true
+        },
+        {
+            "deviceId": "935AX04NZ1",
+            "name": "com.google.android.apps.nexuslauncher",
+            "processId": 6674,
+            "exited": false
+        },
+        {
+            "deviceId": "935AX04NZ1",
+            "name": "com.escape.imposter.rescue",
+            "processId": 29646,
+            "exited": false
+        },
+        {
+            "deviceId": "a1634a78",
+            "name": "com.escape.imposter.rescue",
+            "processId": 11065,
+            "exited": false
+        },
+        {
+            "deviceId": "6393bd3d0405",
+            "name": "com.escape.imposter.rescue",
+            "processId": 30359,
+            "exited": false
+        },
+        {
+            "deviceId": "3ed7da11",
+            "name": "com.mi.android.globalFileexplorer",
+            "processId": 8469,
+            "exited": false
+        },
+        {
+            "deviceId": "5857c5e0",
+            "name": "com.escape.imposter.rescue",
+            "processId": 5938,
+            "exited": true
+        },
+        {
+            "deviceId": "5857c5e0",
+            "name": "com.escape.imposter.rescue",
+            "processId": 8127,
+            "exited": true
+        },
+        {
+            "deviceId": "5857c5e0",
+            "name": "com.escape.imposter.rescue",
+            "processId": 14227,
+            "exited": true
+        },
+        {
+            "deviceId": "5857c5e0",
+            "name": "com.escape.imposter.rescue",
+            "processId": 11592,
+            "exited": false
+        },
+        {
+            "deviceId": "99101FFBA00BH8",
+            "name": "com.escape.imposter.rescue",
+            "processId": 17924,
+            "exited": true
+        },
+        {
+            "deviceId": "99101FFBA00BH8",
+            "name": "com.escape.imposter.rescue",
+            "processId": 19177,
+            "exited": true
+        },
+        {
+            "deviceId": "99101FFBA00BH8",
+            "name": "com.android.settings",
+            "processId": 15299,
+            "exited": false
+        }
+    ],
+    "m_Tags": {
+        "m_Entries": [
+            {
+                "m_Name": "Filter by all listed tags",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "No Filter",
+                "m_Selected": true
+            },
+            {
+                "m_Name": "",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "Tag Control...",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "Unity",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "CRASH",
+                "m_Selected": false
+            }
+        ]
+    },
+    "m_MemoryViewerState": {
+        "MemoryWindowHeight": 300.0,
+        "MemoryWindowWidth": 170.0,
+        "MemoryTypeEnabled": [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+        ],
+        "MemoryGroup": 2,
+        "Behavior": 0
+    },
+    "m_Filter": "",
+    "m_FilterIsRegularExpression": false,
+    "m_SymbolPaths": []
+}

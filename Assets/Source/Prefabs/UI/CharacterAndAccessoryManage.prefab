@@ -1,0 +1,199 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &4397854780564175454
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4397854780564175452}
+  - component: {fileID: 4397854780564175455}
+  m_Layer: 0
+  m_Name: CharacterAndAccessoryManage
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4397854780564175452
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4397854780564175454}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &4397854780564175455
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4397854780564175454}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 164d23d9dca151d46b3d6aa9b23362af, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  listSkinData:
+  - id: 0
+    name: RedImpostor
+    animationName: Idle1
+    icon: {fileID: 21300000, guid: 7cd2e5d061620cc42b17c3c4cd07d7ea, type: 3}
+    price: 0
+    listObject: []
+    listObjectPreview: []
+    material: {fileID: 2100000, guid: 5c943c1be8973b64097ad79197cd22e3, type: 2}
+  - id: 1
+    name: Default1
+    animationName: Idle1
+    icon: {fileID: 21300000, guid: ed5481513f2565b49a130043935b7a46, type: 3}
+    price: 500
+    listObject:
+    - {fileID: 0}
+    listObjectPreview:
+    - {fileID: 0}
+    material: {fileID: 2100000, guid: 72f23609efd4a704e8562940b9c2b042, type: 2}
+  - id: 2
+    name: Default2
+    animationName: Idle1
+    icon: {fileID: 21300000, guid: 1137683858e488344a35102e209910af, type: 3}
+    price: 550
+    listObject:
+    - {fileID: 0}
+    listObjectPreview:
+    - {fileID: 0}
+    material: {fileID: 2100000, guid: ffd39de9e98682e47a543d90c9a47fd4, type: 2}
+  - id: 3
+    name: Default2
+    animationName: Idle1
+    icon: {fileID: 21300000, guid: 70f003c8ca20c184a8a78775e41f97bb, type: 3}
+    price: 600
+    listObject:
+    - {fileID: 0}
+    listObjectPreview:
+    - {fileID: 0}
+    material: {fileID: 2100000, guid: 1671e60773925a6478ea7d0e8628950c, type: 2}
+  - id: 4
+    name: Default2
+    animationName: Idle1
+    icon: {fileID: 21300000, guid: 25b0b2d6f6926aa45a6251f07e76db87, type: 3}
+    price: 650
+    listObject:
+    - {fileID: 0}
+    listObjectPreview:
+    - {fileID: 0}
+    material: {fileID: 2100000, guid: 59547a576c5d9f64195479324c116a5f, type: 2}
+  - id: 5
+    name: Default2
+    animationName: Idle1
+    icon: {fileID: 21300000, guid: e4624465887b8254ba9280e73dc99776, type: 3}
+    price: 2000
+    listObject:
+    - {fileID: 0}
+    listObjectPreview:
+    - {fileID: 0}
+    material: {fileID: 2100000, guid: c03bd11fb8eaef4448dcb438a440b142, type: 2}
+  - id: 6
+    name: Default2
+    animationName: Idle1
+    icon: {fileID: 21300000, guid: e5172fe6313c3dd46809820845433ec9, type: 3}
+    price: 2000
+    listObject:
+    - {fileID: 0}
+    listObjectPreview:
+    - {fileID: 0}
+    material: {fileID: 2100000, guid: 96fa7c0ef5bd47c4f9d28101cf974136, type: 2}
+  - id: 7
+    name: Default2
+    animationName: Idle1
+    icon: {fileID: 21300000, guid: edaf3260b082a5847a1f83dc82220583, type: 3}
+    price: 2000
+    listObject: []
+    listObjectPreview: []
+    material: {fileID: 2100000, guid: de3804bef8cd495479544b68be051a53, type: 2}
+  - id: 8
+    name: Default2
+    animationName: Idle1
+    icon: {fileID: 21300000, guid: 2bde1a4a7b472a045ad881d316e3450d, type: 3}
+    price: 2000
+    listObject:
+    - {fileID: 0}
+    listObjectPreview:
+    - {fileID: 0}
+    material: {fileID: 2100000, guid: 05bc7961e83f4e6408176bd75401baf7, type: 2}
+  - id: 9
+    name: Default2
+    animationName: Idle1
+    icon: {fileID: 21300000, guid: add816f069fee14429d570b3d65a3874, type: 3}
+    price: 2000
+    listObject:
+    - {fileID: 0}
+    listObjectPreview:
+    - {fileID: 0}
+    material: {fileID: 2100000, guid: d74deabc95c6a284c8a3789b6ade0ab5, type: 2}
+  - id: 10
+    name: Default2
+    animationName: Idle1
+    icon: {fileID: 21300000, guid: def48ead37c16904da5a59d01d72be6c, type: 3}
+    price: 2000
+    listObject:
+    - {fileID: 0}
+    - {fileID: 0}
+    listObjectPreview:
+    - {fileID: 0}
+    - {fileID: 0}
+    material: {fileID: 2100000, guid: 5984dfaf68dff864f8a8a7c911ffb24a, type: 2}
+  - id: 11
+    name: Default2
+    animationName: Idle1
+    icon: {fileID: 21300000, guid: db61cb1af1392b044bce85b119b71e56, type: 3}
+    price: 2000
+    listObject:
+    - {fileID: 0}
+    - {fileID: 0}
+    listObjectPreview:
+    - {fileID: 0}
+    - {fileID: 0}
+    material: {fileID: 2100000, guid: ff1727516b1f02f46b3e9d0fea9f104e, type: 2}
+  listPetData:
+  - id: 0
+    name: OKeoke
+    animationName: 
+    icon: {fileID: 21300000, guid: 84537c30096fc06498f9b1208dcdf133, type: 3}
+    price: 143
+    listObject: []
+    listObjectPreview: []
+    material: {fileID: 0}
+  - id: 1
+    name: OKeoke1
+    animationName: 
+    icon: {fileID: 21300000, guid: 84537c30096fc06498f9b1208dcdf133, type: 3}
+    price: 143
+    listObject: []
+    listObjectPreview: []
+    material: {fileID: 0}
+  - id: 2
+    name: OKeoke2
+    animationName: 
+    icon: {fileID: 21300000, guid: 84537c30096fc06498f9b1208dcdf133, type: 3}
+    price: 143
+    listObject: []
+    listObjectPreview: []
+    material: {fileID: 0}
+  characterMesh1: {fileID: 0}
+  characterMesh: {fileID: 0}
+  Shop_characterMesh1: {fileID: 0}
+  Shop_characterMesh: {fileID: 0}
+  SkinPreviewAnimator: {fileID: 0}
+  RotateDefaultPreview: {x: 5, y: 190, z: 0}
+  rotateObjectPreview: {fileID: 0}
+  IAPSkinID: 5

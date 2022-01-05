@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "866308434165",
+    "project_id": "impostorescape",
+    "storage_bucket": "impostorescape.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:866308434165:android:25cde3ad795d755b13fdbc",
+        "android_client_info": {
+          "package_name": "com.escape.imposter.rescue"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "866308434165-1hr33kdhnloe1p386b6fa2o3l5m9d2dk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUangi5tnsm_BRTrNM7WM5QV6pEhjfXmE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "866308434165-1hr33kdhnloe1p386b6fa2o3l5m9d2dk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
